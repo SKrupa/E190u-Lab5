@@ -26,3 +26,6 @@ Simply increasing the framerate will never solve this issue since the stutterste
 Since I could not port all of the code successfully, the code cannot detect find motion of fingers or hand rotations. For Pong this is not a problem, but if someone wanted to use this for a different motion control application, the code would need to be extended to accomodate their specific applications.
 
 ##Conclusion
+In the end, the program managed to detect a hand and output its coordinates. The movement feels fairly jerky, so I personally wouldn't want to play any games that require fine movement and control, but for some casual applications it could work fairly well.
+
+I spent about 4 hours porting the code to C++, 30 minutes porting that to the GPU and about 2 hours trying to optimize the the framerate.
