@@ -7,6 +7,6 @@
 
 ##Results and Discussion
 
-[https://github.com/SKrupa/E190u-Lab5/blob/master/latency%20graph.png?raw=true](https://github.com/SKrupa/E190u-Lab5/blob/master/latency%20graph.png?raw=true)
+[](https://raw.githubusercontent.com/SKrupa/E190u-Lab5/master/latency graph.png)
 
 ##Conclusion
